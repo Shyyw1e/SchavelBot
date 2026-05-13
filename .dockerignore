@@ -1,0 +1,6 @@
+.git
+.gocache
+.env
+SchavelBot.exe
+*.exe
+*.log
